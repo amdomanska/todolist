@@ -1,0 +1,25 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Simple ToDo List",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-session": "^2.0.0-beta.3",
+    "ejs": "^2.5.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amdomanska/todolist.git"
+  },
+  "author": "Agnieszka Domanska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amdomanska/todolist/issues"
+  },
+  "homepage": "https://github.com/amdomanska/todolist#readme"
+}
